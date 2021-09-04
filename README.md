@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnriqueLeo-debug
-- 👀 I’m interested in android developer and Linux
+- 👀 I’m interested in android apps and Linux aplications
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on apps
 - 📫 How to reach me enriqueleon1@protonmail.com
